@@ -15,9 +15,8 @@ for number in range {
     if number % 2 == 0 {
          print("\(number) par!!!")
     }
-    
-    // Número impar
-    if number % 2 != 0 {
+    // Si no es par tiene que ser impar
+    else {
         print("\(number) impar!!!")
     }
     
